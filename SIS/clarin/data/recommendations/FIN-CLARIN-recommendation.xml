@@ -12,7 +12,18 @@
           <ri status="B-centre">CLARIN</ri>
         </nodeInfo>
       </centre>
-    </header>
+      <respStmt>
+         <curator>Jussi Piitulainen</curator>
+         <github>https://github.com/jpiitula</github>
+         <reviewDate>2024-xx-xx</reviewDate>
+      </respStmt>   
+   </header>
+   <info xml:lang="en">
+      <p>...</p>
+   </info>
+   <info xml:lang="fi">
+      <p>...</p>     
+   </info>
    <formats>
       <format id="fCHAT"> 
          <domain>Audiovisual Annotation</domain>
