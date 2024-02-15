@@ -123,10 +123,6 @@
          <domain>Text Annotation</domain>
          <level>acceptable</level>
       </format>
-      <format id="fPDFA">
-         <domain>Textual Source Language Data</domain>
-         <level>acceptable</level>
-      </format>
       <format id="fPraat">
          <domain>Textual Source Language Data</domain>
          <level>recommended</level>
