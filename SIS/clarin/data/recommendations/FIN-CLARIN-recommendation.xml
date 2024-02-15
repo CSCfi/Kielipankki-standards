@@ -9,7 +9,7 @@
       <respStmt>
          <curator>Jussi Piitulainen</curator>
          <github>https://github.com/jpiitula</github>
-         <reviewDate>2024-xx-xx</reviewDate>
+         <reviewDate>2024-02-15</reviewDate>
       </respStmt>   
    </header>
    <info xml:lang="en">
@@ -60,6 +60,10 @@
       <format id="fPDFA">
          <domain>Documentation</domain>
          <level>recommended</level>
+      </format>
+      <format id="fPDF">
+         <domain>Documentation</domain>
+         <level>acceptable</level>
       </format>
       <format id="fTEI">
          <domain>Documentation</domain>
