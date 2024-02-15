@@ -5,7 +5,7 @@
       <filter>
          <centreID>FIN-CLARIN</centreID>
       </filter>
-   <centre id="FIN-CLARIN" deposition="1">
+      <centre id="FIN-CLARIN" deposition="1">
         <name>The Language Bank of Finland</name>
         <a href="https://centres.clarin.eu/centre/17"/>
         <nodeInfo>
