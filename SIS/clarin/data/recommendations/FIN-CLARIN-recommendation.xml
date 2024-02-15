@@ -13,10 +13,27 @@
       </respStmt>   
    </header>
    <info xml:lang="en">
-      <p>...</p>
-   </info>
-   <info xml:lang="fi">
-      <p>...</p>     
+      <p>The following measures are taken to enhance the chance of future interpretability of the
+         data.</p>
+      <p>The number of accepted file formats is small and well documented to make future conversions
+         to other formats more feasible. Open (non-proprietary) file formats
+         are strongly preferred.
+         The Language Bank of Finland recommends formats listed in the CLARIN
+         <a href="https://standards.clarin.eu/sis/">Standards Information System</a>.</p>
+      <p>The Language Bank's participation in relevant networks like
+         <a href="https://www.clarin.eu/content/overview-clarin-centres">CLARIN</a>
+         enables steady information about recent developments in file formats and encodings. Plans
+         to migrate or convert files will be developed if new standards arise.</p>
+      <p>For more information, see the <a href="https://www.kielipankki.fi/language-bank/">Language Bank of Finland's Portal</a>.</p>
+      <p>Data to be deposited might need to be converted to accepted or recommended formats for long-term preservation.</p>
+      <p>Plain text and XML files will normally only be accepted in Unicode character encoding, preferably UTF-8.</p>
+      <p>As a general guideline we believe that the file formats best suited for long-term
+         sustainability and accessibility:</p>
+      <ul>
+         <li>Are frequently used</li>
+         <li>Have open specifications</li>
+         <li>Are independent of specific software, developers or vendors</li>
+      </ul>
    </info>
    <formats>
       <format id="fCHAT"> 
